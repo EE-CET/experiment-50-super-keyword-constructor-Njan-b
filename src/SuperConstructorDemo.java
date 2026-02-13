@@ -14,7 +14,7 @@ class Student extends Person {
     }
 }
 
-public class SuperConstructorDemo {
+public class  SuperConstructorDemo {
     public static void main(String[] args) {
         Student obj = new Student();
     }
